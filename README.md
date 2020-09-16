@@ -1,6 +1,7 @@
 # Using Messenger with Selenium
 
-Script simples de interação com o messenger e envio de mensagens para multiplos usuarios de um perfil.
+
+Simple script for interacting with the messenger and sending messages to multiple users of a profile.
 
 ## Getting Started
 
@@ -8,7 +9,8 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Prerequisites
 
-What things you need to install the software and how to install them
+
+Make sure python 3 is installed on your machine, install selenium and lib regular expressions
 
 ```
 Give examples
